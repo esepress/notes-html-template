@@ -28,12 +28,12 @@ $(document).ready(function(){
 
     $('#countdown_dashboard').countDown({
         targetDate: {
-            'day':      30,
-            'month':    12,
-            'year':     2015,
-            'hour':     23,
-            'min':      59,
-            'sec':      59,
+            'day':      11,
+            'month':    3,
+            'year':     2017,
+            'hour':     00,
+            'min':      00,
+            'sec':      01,
         },
         omitWeeks: true
     });
